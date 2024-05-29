@@ -1,5 +1,5 @@
 // URL of the image to replace all profile pictures with
-const replacementImageUrl = 'https://img.freepik.com/free-photo/anime-stylecelebrating-valentines-day_23-2151258009.jpg';
+const replacementImageUrl = 'https://cdn.pixabay.com/photo/2023/01/03/16/00/dog-7694676_640.jpg';
 
 // Function to replace profile pictures
 function replaceProfilePictures() {
